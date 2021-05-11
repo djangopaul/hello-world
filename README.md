@@ -1,1 +1,1 @@
-# hello-world
+# trying django
